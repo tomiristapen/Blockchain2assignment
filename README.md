@@ -56,7 +56,7 @@ http server
 ```
 ![http](images/image2.jpg)
 
-after running server open the src and you will see the app :
+## after running server open the src and you will see the app :
 
 ![http](images/image3.png)
 
