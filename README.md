@@ -46,6 +46,27 @@ Compile and deploy the smart contract:
 truffle compile
 truffle migrate
 ```
+![http](images/image.png)
+
+install http and run the server:
+```
+npm install -g http-server
+
+http server
+```
+![http](images/image2.jpg)
+
+after running server open the src and you will see the app :
+
+![http](images/image3.png)
+
+## creation of the model:
+![http](images/image4.png)
+
+## rating and buing:
+
+![http](images/image6.png)
+
 Start the development server:
 
 Interacting with the dApp:
