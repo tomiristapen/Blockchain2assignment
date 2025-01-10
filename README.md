@@ -75,3 +75,8 @@ Interacting with the dApp:
 - Browse the listed models and purchase the ones you need.
 - Rate purchased models to provide feedback.
 - Creators can withdraw their earnings from the "Withdraw Funds" section.
+
+  ## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
