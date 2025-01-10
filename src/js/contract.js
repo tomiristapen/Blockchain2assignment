@@ -1,4 +1,4 @@
-const contractAddress = '0xcD4a3360eD952E7b0d7a79C9951D0A1D0B27af9d';
+const contractAddress = '0xa24cf9eA7E28E113b10D5514d7fbEBf3a07B12B9';
 let web3;
 let contract;
 
