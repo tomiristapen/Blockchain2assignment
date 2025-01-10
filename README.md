@@ -1,5 +1,5 @@
 # BlockchainAssignment2
-## Team: Ayaulym Kenzhekul, Tomiris Tapen, Danial Yerzhigit
+## Team: Ayaulym Kenzhekul SE-2314, Tomiris Tapen SE-2316, Danial Yerzhigit SE-2314
 ## AI Model Marketplace dApp
 ## Overview
 The AI Model Marketplace dApp is a decentralized application designed to allow users to list, purchase, and rate AI models. This project includes a smart contract that manages core marketplace functions and a frontend interface for seamless user interaction.
